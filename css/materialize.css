@@ -2914,7 +2914,7 @@ ul.staggered-list li {
 }
 
 footer.page-footer {
-  margin-top: 20px;
+  margin-top: 0px;
   padding-top: 20px;
   background-color: #ee6e73;
 }
@@ -7353,7 +7353,6 @@ nav .button-collapse i {
 }
 
 nav .brand-logo {
-  position: absolute;
   color: #fff;
   display: inline-block;
   font-size: 1.3rem;
@@ -11351,7 +11350,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 }
 
 .hero-image {
-  background-image: url("/mypage/img/head-image.jpg");
+  background-image: url("/img/head-image.jpg");
   padding: 8rem 0 12rem 0;
   background-size: cover;
   background-position: center;
