@@ -7797,6 +7797,16 @@ small {
 
 .card .card-title {
   font-size: 24px;
+  font-weight: 700;
+}
+
+.card .card-title span {
+  font-size: 16px;
+  line-height: 1;
+  margin-left: 10px;
+  font-family: Source Sans Pro;
+  text-transform: none;
+  font-weight: 600;
 }
 
 .card .card-title.activator {
@@ -11355,7 +11365,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 }
 
 .hero-image {
-  background-image: url("/img/head-image.jpg");
+  background-image: url("/mypage/img/head-image.jpg");
   padding: 12.5rem;
   background-size: cover;
   background-position: center;
